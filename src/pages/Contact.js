@@ -13,14 +13,14 @@ const Contact = () => {
         <div className="contact-method">
           <h2><FontAwesomeIcon icon={faEnvelope} /> Email</h2>
           <p>
-            <a href="mailto:support@donationplatform.com">support@donationplatform.com</a>
+            <a href="">support@donationplatform.com</a>
           </p>
         </div>
 
         <div className="contact-method">
           <h2><FontAwesomeIcon icon={faFacebook} /> Facebook</h2>
           <p>
-            <a href="https://www.facebook.com/yourpage" target="_blank" rel="noopener noreferrer">
+            <a href="" target="_blank" rel="noopener noreferrer">
               facebook.com/yourpage
             </a>
           </p>
@@ -29,7 +29,7 @@ const Contact = () => {
         <div className="contact-method">
           <h2><FontAwesomeIcon icon={faWhatsapp} /> WhatsApp</h2>
           <p>
-            <a href="https://wa.me/1234567890" target="_blank" rel="noopener noreferrer">
+            <a href="" target="_blank" rel="noopener noreferrer">
               Message us on WhatsApp
             </a>
           </p>
@@ -38,7 +38,7 @@ const Contact = () => {
         <div className="contact-method">
           <h2><FontAwesomeIcon icon={faTimes} /> X (Twitter)</h2> {/* Use faTimes for X icon */}
           <p>
-            <a href="https://twitter.com/yourprofile" target="_blank" rel="noopener noreferrer">
+            <a href="" target="_blank" rel="noopener noreferrer">
               @yourprofile
             </a>
           </p>
