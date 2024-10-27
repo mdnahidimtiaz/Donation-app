@@ -2,7 +2,7 @@ import React from 'react';
 import './Css/Information.css'; 
 const Information = () => {
   return (
-    <div className="information">
+    <div className="info">
       <h1>Information Form</h1>
       <form >
         <div>
@@ -46,15 +46,6 @@ const Information = () => {
           <input
             type="text"
             name="state"
-            
-          />
-        </div>
-
-        <div>
-          <label>Zip Code:</label>
-          <input
-            type="text"
-            name="zip"
             
           />
         </div>
