@@ -2,14 +2,14 @@
     max-width: 600px;
     margin: 0 auto;
     padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    background-color: #f9f9f9;
+    border: 1px solid black;
+    border-radius: 0px;
+    background-color: white;
   }
   
   .donation h1 {
     text-align: center;
-    color: red;
+    color: black;
   }
   
   .donation form {
@@ -24,6 +24,7 @@
   .donation input,
   .donation textarea,
   .donation select {
+    
     padding: 10px;
     margin-bottom: 15px;
     border: 1px solid black;
@@ -35,8 +36,8 @@
     background-color: green;
     color: white;
     border: none;
-    border-radius: 5px;
-    cursor: pointer;
+    border-radius: 0px;
+   
   }
   
   .donation button:hover {
