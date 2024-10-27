@@ -7,11 +7,9 @@ const Home = () => {
     <div className="home">
       <h1>Greetings from the Donation Program.</h1>
       <p>
-      Your support might have a significant impact! We think that even modest contributions may have a big impact and that communities are powerful. We can assist the most important issues when we work together.
+      Please donate to people. We think that your little interest helps many people in various sectors. We want to stay together.
       </p>
-      
-
-      <div className="donation-cta">
+      <div className="donation">
         <h2>Ready to make a donation?</h2>
         <Link to="/donation" className="donation-button">
           Donate Now
