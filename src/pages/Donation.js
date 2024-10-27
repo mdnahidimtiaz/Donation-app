@@ -9,7 +9,7 @@ const Donation = () => {
       <h1>Make a Donation</h1>
       <form >
         <div>
-          <label htmlFor="donorId">Donor ID:</label>
+          <label >Donor ID:</label>
           <input
             type="text"
             id="donorId"
@@ -19,39 +19,36 @@ const Donation = () => {
         </div>
 
         <div>
-          <label htmlFor="donorName">Donor Name:</label>
+          <label >Donor Name:</label>
           <input
             type="text"
-            id="donorName"
             name="donorName"
             
           />
         </div>
 
         <div>
-          <label htmlFor="amount">Amount:</label>
+          <label >Amount:</label>
           <input
             type="number"
-            id="amount"
             name="amount"
             
           />
         </div>
 
         <div>
-          <label htmlFor="date">Date:</label>
+          <label >Date:</label>
           <input
-            type="date"
-            id="date"
+            type="date" 
             name="date"
             
           />
         </div>
 
         <div>
-          <label htmlFor="message">Message:</label>
+          <label >Message:</label>
           <textarea
-            id="message"
+            type="message"
             name="message"
             
           />
