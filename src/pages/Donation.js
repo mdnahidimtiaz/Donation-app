@@ -9,7 +9,7 @@ const Donation = () => {
       <h1>Make a Donation</h1>
       <form >
         <div>
-          <label >Donor ID:</label>
+          <label >Money Transaction no:</label>
           <input
             type="text"
             id="donorId"
