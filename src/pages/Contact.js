@@ -13,7 +13,7 @@ const Contact = () => {
         <div className="contact-sin">
           <h2><FontAwesomeIcon icon={faEnvelope} /> Email</h2>
           <p>
-            <a href="">support@donationplatform.com</a>
+            <a href="">Email ID</a>
           </p>
         </div>
 
@@ -21,7 +21,7 @@ const Contact = () => {
           <h2><FontAwesomeIcon icon={faFacebook} /> Facebook</h2>
           <p>
             <a href="" target="_blank" rel="noopener noreferrer">
-              facebook.com
+              Facebook ID
             </a>
           </p>
         </div>
@@ -30,7 +30,7 @@ const Contact = () => {
           <h2><FontAwesomeIcon icon={faWhatsapp} /> WhatsApp</h2>
           <p>
             <a href="" target="_blank" rel="noopener noreferrer">
-              Message us on WhatsApp
+               WhatsApp ID
             </a>
           </p>
         </div>
@@ -39,7 +39,7 @@ const Contact = () => {
           <h2><FontAwesomeIcon icon={faTimes} /> X (Twitter)</h2> 
           <p>
             <a href="" target="_blank" rel="noopener noreferrer">
-              @Xprofile
+              Xprofile
             </a>
           </p>
         </div>
