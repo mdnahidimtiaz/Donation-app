@@ -3,8 +3,8 @@ import './App.css';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Home from './pages/Home';
 import About from './pages/About';
-import Donation from './pages/Donation';  // Change DONATION to Donation
-import Information from './pages/Information';  // Change INFORMATION to Information
+import Donation from './pages/Donation'; 
+import Information from './pages/Information';
 
 const App = () => {
   return (
